@@ -1,1 +1,2 @@
 # generatepassword
+This Python program generates a strong password composed of numbers and characters, ensuring a mix of uppercase, lowercase letters, digits, and special characters for enhanced security. The password length can be specified by the user. Additionally, the program copies the generated password to the clipboard, making it easy to paste wherever needed. It utilizes the random module for randomness and the string module for character selection. The pyperclip library is used to handle clipboard operations
